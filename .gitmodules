@@ -1,0 +1,3 @@
+[submodule "SecureMethods"]
+	path = SecureMethods
+	url = http://github.com/sfaxi19/SecureMethods
